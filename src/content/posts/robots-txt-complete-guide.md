@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current seo recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #1e293b; border-radius: 12px; padding: 1rem; border: 1px solid #334155;"><div style="font-weight: 700; font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.6rem;">Robots.txt Directives</div><div style="display: grid; grid-template-columns: auto 1fr; gap: 0.3rem; font-size: 0.75rem; font-family: monospace;"><div style="color: #4ade80; padding: 0.2rem 0.4rem;">User-agent:</div><div style="color: #94a3b8; padding: 0.2rem;">Which bot</div><div style="color: #f87171; padding: 0.2rem 0.4rem;">Disallow:</div><div style="color: #94a3b8; padding: 0.2rem;">Block path</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">Allow:</div><div style="color: #94a3b8; padding: 0.2rem;">Override block</div><div style="color: #60a5fa; padding: 0.2rem 0.4rem;">Sitemap:</div><div style="color: #94a3b8; padding: 0.2rem;">XML location</div></div></div>
 The robots.txt file tells search engine crawlers which pages they can and cannot access on your site. It is one of the first files crawlers look for when visiting a website.
 
 ## How Robots.txt Works

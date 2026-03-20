@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current seo recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.6rem;">Common Duplicate Content Issues</div><div style="display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.75rem;"><div style="background: #fecaca; padding: 0.4rem 0.6rem; border-radius: 6px;">www.site.com vs site.com</div><div style="background: #fecaca; padding: 0.4rem 0.6rem; border-radius: 6px;">http:// vs https://</div><div style="background: #fecaca; padding: 0.4rem 0.6rem; border-radius: 6px;">/page vs /page/</div><div style="background: #dcfce7; padding: 0.4rem 0.6rem; border-radius: 6px; font-weight: 600; color: #166534;">Fix: &lt;link rel="canonical"&gt;</div></div></div>
 Duplicate content occurs when the same or very similar content is accessible at multiple URLs. This dilutes your SEO value and confuses search engines about which version to index.
 
 ## Common Causes of Duplicate Content

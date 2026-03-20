@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current seo recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #eff6ff; border-radius: 12px; padding: 1rem; border: 1px solid #bfdbfe;"><div style="font-weight: 700; font-size: 0.85rem; color: #1e40af; margin-bottom: 0.6rem;">Essential Open Graph Tags</div><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); gap: 0.3rem; font-size: 0.75rem;"><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center; font-weight: 600; color: #1e40af;">og:title</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center; font-weight: 600; color: #1e40af;">og:description</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center; font-weight: 600; color: #1e40af;">og:image</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center; font-weight: 600; color: #1e40af;">og:url</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center; font-weight: 600; color: #1e40af;">og:type</div></div></div>
 Open Graph protocol lets you control how your web pages appear when shared on social media platforms like Facebook, LinkedIn, and Pinterest.
 
 ## Essential OG Tags

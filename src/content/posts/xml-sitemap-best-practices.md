@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current seo recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;"><div style="padding: 0.7rem; background: #dbeafe; border-radius: 10px; text-align: center; border: 1px solid #93c5fd;"><div style="font-weight: 800; color: #1e40af; font-size: 0.9rem;">50,000</div><div style="font-size: 0.65rem; color: #6b7280;">Max URLs/file</div></div><div style="padding: 0.7rem; background: #dcfce7; border-radius: 10px; text-align: center; border: 1px solid #86efac;"><div style="font-weight: 800; color: #166534; font-size: 0.9rem;">50 MB</div><div style="font-size: 0.65rem; color: #6b7280;">Max file size</div></div><div style="padding: 0.7rem; background: #fef3c7; border-radius: 10px; text-align: center; border: 1px solid #fde68a;"><div style="font-weight: 800; color: #92400e; font-size: 0.9rem;">Weekly</div><div style="font-size: 0.65rem; color: #6b7280;">Update freq</div></div></div>
 XML sitemaps help search engines discover and index your pages more efficiently. They list all important URLs on your site along with metadata about each page.
 
 ## Why Sitemaps Matter
